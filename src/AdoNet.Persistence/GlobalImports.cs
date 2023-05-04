@@ -1,0 +1,10 @@
+﻿global using AdoNet.Persistence.Commands.DeleteScripts;
+global using AdoNet.Persistence.Commands.InsertScripts;
+global using AdoNet.Persistence.Commands.UpdateScripts;
+global using AdoNet.Persistence.Queries;
+global using AdoNet.Persistence.ScriptsExecute;
+global using AdoNet.Persistence.ScriptSignatures;
+global using AdoNet.Persistence.Utilities;
+global using System.Collections;
+global using System.Data;
+global using System.Text;
